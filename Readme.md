@@ -20,5 +20,5 @@ Como utilizar Offline:
 Instalar os pacotes usando npm install. 
 Para executar o projeto utilize o npm run dev.
 
-Link do Deploy:
-https://food-explorerv2-rs.netlify.app
+Link do Deploy backend:
+https://backend-foodexplorer-05g4.onrender.com
