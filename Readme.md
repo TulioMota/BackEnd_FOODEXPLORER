@@ -21,4 +21,4 @@ Instalar os pacotes usando npm install.
 Para executar o projeto utilize o npm run dev.
 
 Link do Deploy backend:
-https://backend-foodexplorer-05g4.onrender.com
+https://backend-foodexplorer-08sk.onrender.com
