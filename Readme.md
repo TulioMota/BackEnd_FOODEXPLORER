@@ -18,8 +18,7 @@ Tecnologias usadas:
 Como utilizar Offline:
 
 Instalar os pacotes usando npm install. 
-Para executar o projeto utilize o npm run dev, ou npm start.
-
+Para executar o projeto utilize o npm run dev.
 
 Link do Deploy:
 https://food-explorerv2-rs.netlify.app
