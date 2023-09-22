@@ -88,7 +88,7 @@ class DishesController {
     const ingredientsInsert = dishIngredients.map((ingredient) => {
       return {
         dishes_id: id,
-        title: ingredient,
+        title: ingredient.name || ingredient
       };
     });
 
